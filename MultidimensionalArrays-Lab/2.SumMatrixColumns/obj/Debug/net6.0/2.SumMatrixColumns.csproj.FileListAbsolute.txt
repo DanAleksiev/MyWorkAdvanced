@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net6.0\2.SumMatrixColumns.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net6.0\2.SumMatrixColumns.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net6.0\2.SumMatrixColumns.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net6.0\2.SumMatrixColumns.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\bin\Debug\net6.0\2.SumMatrixColumns.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\2.SumMatrixColumns.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\2.SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\2.SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\2.SumMatrixColumns.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\2.SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\2.SumMatrixColumns.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\refint\2.SumMatrixColumns.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\2.SumMatrixColumns.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\2.SumMatrixColumns.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\2.SumMatrixColumns\obj\Debug\net6.0\ref\2.SumMatrixColumns.dll

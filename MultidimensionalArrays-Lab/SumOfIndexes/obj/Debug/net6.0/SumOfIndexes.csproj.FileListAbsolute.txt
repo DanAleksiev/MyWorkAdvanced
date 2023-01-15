@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\bin\Debug\net6.0\SumOfIndexes.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\bin\Debug\net6.0\SumOfIndexes.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\bin\Debug\net6.0\SumOfIndexes.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\bin\Debug\net6.0\SumOfIndexes.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\bin\Debug\net6.0\SumOfIndexes.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\SumOfIndexes.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\SumOfIndexes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\SumOfIndexes.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\SumOfIndexes.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\SumOfIndexes.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\SumOfIndexes.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\refint\SumOfIndexes.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\SumOfIndexes.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\SumOfIndexes.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Lab\SumOfIndexes\obj\Debug\net6.0\ref\SumOfIndexes.dll
