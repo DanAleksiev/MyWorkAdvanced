@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\bin\Debug\net6.0\MultidimensionalArrays-Exercise.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\bin\Debug\net6.0\MultidimensionalArrays-Exercise.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\bin\Debug\net6.0\MultidimensionalArrays-Exercise.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\bin\Debug\net6.0\MultidimensionalArrays-Exercise.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\bin\Debug\net6.0\MultidimensionalArrays-Exercise.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\MultidimensionalArrays-Exercise.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\MultidimensionalArrays-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\MultidimensionalArrays-Exercise.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\MultidimensionalArrays-Exercise.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\MultidimensionalArrays-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\MultidimensionalArrays-Exercise.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\refint\MultidimensionalArrays-Exercise.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\MultidimensionalArrays-Exercise.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\MultidimensionalArrays-Exercise.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\MultidimensionalArrays-Exercise\MultidimensionalArrays-Exercise\obj\Debug\net6.0\ref\MultidimensionalArrays-Exercise.dll
