@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\bin\Debug\net5.0\8.TrafficJam.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\bin\Debug\net5.0\8.TrafficJam.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\bin\Debug\net5.0\8.TrafficJam.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\bin\Debug\net5.0\8.TrafficJam.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\bin\Debug\net5.0\8.TrafficJam.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\bin\Debug\net5.0\8.TrafficJam.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\8.TrafficJam.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\8.TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\8.TrafficJam.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\8.TrafficJam.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\8.TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\8.TrafficJam.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\refint\8.TrafficJam.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\8.TrafficJam.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\8.TrafficJam.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\8.TrafficJam\obj\Debug\net5.0\ref\8.TrafficJam.dll

@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\net5.0\5.PrintEvenNumbers.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\net5.0\5.PrintEvenNumbers.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\net5.0\5.PrintEvenNumbers.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\net5.0\5.PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\net5.0\5.PrintEvenNumbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\bin\Debug\net5.0\5.PrintEvenNumbers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\5.PrintEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\5.PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\5.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\5.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\5.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\5.PrintEvenNumbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\refint\5.PrintEvenNumbers.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\5.PrintEvenNumbers.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\5.PrintEvenNumbers.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\5.PrintEvenNumbers\obj\Debug\net5.0\ref\5.PrintEvenNumbers.dll

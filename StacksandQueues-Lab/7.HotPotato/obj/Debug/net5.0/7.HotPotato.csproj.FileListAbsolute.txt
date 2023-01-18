@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\bin\Debug\net5.0\7.HotPotato.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\bin\Debug\net5.0\7.HotPotato.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\bin\Debug\net5.0\7.HotPotato.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\bin\Debug\net5.0\7.HotPotato.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\bin\Debug\net5.0\7.HotPotato.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\bin\Debug\net5.0\7.HotPotato.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\7.HotPotato.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\7.HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\7.HotPotato.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\7.HotPotato.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\7.HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\7.HotPotato.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\refint\7.HotPotato.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\7.HotPotato.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\7.HotPotato.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\7.HotPotato\obj\Debug\net5.0\ref\7.HotPotato.dll

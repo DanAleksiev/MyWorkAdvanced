@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\bin\Debug\net5.0\4.MatchingBrackets.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\refint\4.MatchingBrackets.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\4.MatchingBrackets.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\4.MatchingBrackets\obj\Debug\net5.0\ref\4.MatchingBrackets.dll

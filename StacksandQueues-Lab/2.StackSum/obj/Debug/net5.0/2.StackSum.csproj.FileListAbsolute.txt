@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\bin\Debug\net5.0\2.StackSum.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\bin\Debug\net5.0\2.StackSum.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\bin\Debug\net5.0\2.StackSum.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\bin\Debug\net5.0\2.StackSum.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\bin\Debug\net5.0\2.StackSum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\bin\Debug\net5.0\2.StackSum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\2.StackSum.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\2.StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\2.StackSum.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\2.StackSum.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\2.StackSum.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\2.StackSum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\refint\2.StackSum.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\2.StackSum.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\2.StackSum.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\StacksandQueues-Lab\2.StackSum\obj\Debug\net5.0\ref\2.StackSum.dll
