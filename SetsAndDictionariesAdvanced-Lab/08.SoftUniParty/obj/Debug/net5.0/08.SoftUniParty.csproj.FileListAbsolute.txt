@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\bin\Debug\net5.0\08.SoftUniParty.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\refint\08.SoftUniParty.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\08.SoftUniParty.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\08.SoftUniParty\obj\Debug\net5.0\ref\08.SoftUniParty.dll

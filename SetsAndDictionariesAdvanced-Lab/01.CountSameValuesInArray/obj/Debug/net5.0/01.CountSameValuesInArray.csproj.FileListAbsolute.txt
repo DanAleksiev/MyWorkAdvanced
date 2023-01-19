@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.exe
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.deps.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\bin\Debug\net5.0\01.CountSameValuesInArray.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\refint\01.CountSameValuesInArray.dll
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.pdb
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\01.CountSameValuesInArray.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\SetsAndDictionariesAdvanced-Lab\01.CountSameValuesInArray\obj\Debug\net5.0\ref\01.CountSameValuesInArray.dll
