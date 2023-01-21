@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\bin\Debug\net5.0\imageEncryptor.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\bin\Debug\net5.0\imageEncryptor.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\bin\Debug\net5.0\imageEncryptor.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\bin\Debug\net5.0\imageEncryptor.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\bin\Debug\net5.0\imageEncryptor.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\bin\Debug\net5.0\imageEncryptor.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\imageEncryptor.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\imageEncryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\imageEncryptor.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\imageEncryptor.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\imageEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\imageEncryptor.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\refint\imageEncryptor.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\imageEncryptor.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\imageEncryptor.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\imageEncryptor\obj\Debug\net5.0\ref\imageEncryptor.dll

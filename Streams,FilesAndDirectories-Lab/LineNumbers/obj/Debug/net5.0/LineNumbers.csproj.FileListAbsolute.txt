@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net5.0\LineNumbers.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net5.0\LineNumbers.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net5.0\LineNumbers.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net5.0\LineNumbers.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net5.0\LineNumbers.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\bin\Debug\net5.0\LineNumbers.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\LineNumbers.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\LineNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\LineNumbers.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\LineNumbers.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\LineNumbers.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\LineNumbers.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\refint\LineNumbers.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\LineNumbers.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\LineNumbers.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\LineNumbers\obj\Debug\net5.0\ref\LineNumbers.dll

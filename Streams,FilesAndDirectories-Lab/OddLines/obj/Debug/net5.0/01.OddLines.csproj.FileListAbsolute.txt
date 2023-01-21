@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\net5.0\01.OddLines.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\net5.0\01.OddLines.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\net5.0\01.OddLines.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\net5.0\01.OddLines.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\net5.0\01.OddLines.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\bin\Debug\net5.0\01.OddLines.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\01.OddLines.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\01.OddLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\01.OddLines.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\01.OddLines.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\01.OddLines.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\01.OddLines.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\refint\01.OddLines.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\01.OddLines.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\01.OddLines.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\01.OddLines\obj\Debug\net5.0\ref\01.OddLines.dll

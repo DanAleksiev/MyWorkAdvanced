@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\net5.0\MergeFiles.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\net5.0\MergeFiles.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\net5.0\MergeFiles.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\net5.0\MergeFiles.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\net5.0\MergeFiles.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\bin\Debug\net5.0\MergeFiles.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\MergeFiles.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\MergeFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\MergeFiles.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\MergeFiles.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\MergeFiles.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\MergeFiles.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\refint\MergeFiles.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\MergeFiles.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\MergeFiles.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\MergeFiles\obj\Debug\net5.0\ref\MergeFiles.dll
