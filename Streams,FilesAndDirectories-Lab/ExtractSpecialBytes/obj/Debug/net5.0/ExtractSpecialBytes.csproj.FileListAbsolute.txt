@@ -1,0 +1,16 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\bin\Debug\net5.0\ExtractSpecialBytes.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\bin\Debug\net5.0\ExtractSpecialBytes.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\bin\Debug\net5.0\ExtractSpecialBytes.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\bin\Debug\net5.0\ExtractSpecialBytes.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\bin\Debug\net5.0\ExtractSpecialBytes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\bin\Debug\net5.0\ExtractSpecialBytes.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\refint\ExtractSpecialBytes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ref\ExtractSpecialBytes.dll

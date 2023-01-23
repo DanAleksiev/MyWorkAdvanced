@@ -3,17 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LineNumbers", "LineNumbers\LineNumbers.csproj", "{BD87049F-B2F1-406E-9FB7-57EFC45A1C98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LineNumbers", "LineNumbers\LineNumbers.csproj", "{BD87049F-B2F1-406E-9FB7-57EFC45A1C98}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.OddLines", "OddLines\01.OddLines.csproj", "{23CB2C6F-C03B-4373-915C-F68EF8FD8E59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCount", "WordCount\WordCount.csproj", "{CD6F5CF8-E877-4DFB-A7F2-1C423EB7D44C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordCount", "WordCount\WordCount.csproj", "{CD6F5CF8-E877-4DFB-A7F2-1C423EB7D44C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeFiles", "MergeFiles\MergeFiles.csproj", "{1979960C-C7B9-4866-885F-9DB8DDB5482C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeFiles", "MergeFiles\MergeFiles.csproj", "{1979960C-C7B9-4866-885F-9DB8DDB5482C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractSpecialBytes", "ExtractSpecialBytes\ExtractSpecialBytes.csproj", "{43D79A6E-D08E-47C9-972C-66BFC36F6BA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractSpecialBytes", "ExtractSpecialBytes\ExtractSpecialBytes.csproj", "{43D79A6E-D08E-47C9-972C-66BFC36F6BA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imageEncryptor", "imageEncryptor\imageEncryptor.csproj", "{9A5C5672-A438-4FDB-974A-A75067C78015}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "imageEncryptor", "imageEncryptor\imageEncryptor.csproj", "{9A5C5672-A438-4FDB-974A-A75067C78015}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExtractSpecialBytesTest", "ExtractSpecialBytesTest\ExtractSpecialBytesTest.csproj", "{308F6840-1C17-4779-A3CD-73BA65248228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Split,MergeBinaryFiles", "06. Split,MergeBinaryFiles\06. Split,MergeBinaryFiles.csproj", "{DAD62E8B-2617-4578-A4E4-410502174088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FolderSize", "FolderSize\FolderSize.csproj", "{46A6EEC7-9EFA-4677-A953-FFCB7BADB6D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{9A5C5672-A438-4FDB-974A-A75067C78015}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A5C5672-A438-4FDB-974A-A75067C78015}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A5C5672-A438-4FDB-974A-A75067C78015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{308F6840-1C17-4779-A3CD-73BA65248228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{308F6840-1C17-4779-A3CD-73BA65248228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{308F6840-1C17-4779-A3CD-73BA65248228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{308F6840-1C17-4779-A3CD-73BA65248228}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD62E8B-2617-4578-A4E4-410502174088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD62E8B-2617-4578-A4E4-410502174088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD62E8B-2617-4578-A4E4-410502174088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD62E8B-2617-4578-A4E4-410502174088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A6EEC7-9EFA-4677-A953-FFCB7BADB6D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A6EEC7-9EFA-4677-A953-FFCB7BADB6D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A6EEC7-9EFA-4677-A953-FFCB7BADB6D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A6EEC7-9EFA-4677-A953-FFCB7BADB6D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
