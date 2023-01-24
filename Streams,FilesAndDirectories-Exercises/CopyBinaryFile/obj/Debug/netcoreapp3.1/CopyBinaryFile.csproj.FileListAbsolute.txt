@@ -1,0 +1,14 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\bin\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\CopyBinaryFile\obj\Debug\netcoreapp3.1\CopyBinaryFile.genruntimeconfig.cache

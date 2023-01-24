@@ -1,0 +1,14 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\bin\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Exercises\DirectoryTraversal\obj\Debug\netcoreapp3.1\DirectoryTraversal.genruntimeconfig.cache
