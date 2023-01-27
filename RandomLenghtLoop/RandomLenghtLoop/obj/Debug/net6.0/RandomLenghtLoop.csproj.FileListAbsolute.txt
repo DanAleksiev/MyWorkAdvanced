@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\bin\Debug\net6.0\RandomLenghtLoop.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\bin\Debug\net6.0\RandomLenghtLoop.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\bin\Debug\net6.0\RandomLenghtLoop.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\bin\Debug\net6.0\RandomLenghtLoop.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\bin\Debug\net6.0\RandomLenghtLoop.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\RandomLenghtLoop.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\RandomLenghtLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\RandomLenghtLoop.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\RandomLenghtLoop.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\RandomLenghtLoop.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\RandomLenghtLoop.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\refint\RandomLenghtLoop.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\RandomLenghtLoop.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\RandomLenghtLoop.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\RandomLenghtLoop\RandomLenghtLoop\obj\Debug\net6.0\ref\RandomLenghtLoop.dll

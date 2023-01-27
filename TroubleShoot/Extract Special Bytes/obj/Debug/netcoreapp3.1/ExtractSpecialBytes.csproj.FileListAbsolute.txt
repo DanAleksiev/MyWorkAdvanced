@@ -12,3 +12,17 @@ C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\TroubleShoot\
 C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
 C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
 C:\Users\toksi\OneDrive\Desktop\Уроци\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\bin\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\TroubleShoot\Extract Special Bytes\obj\Debug\netcoreapp3.1\ExtractSpecialBytes.genruntimeconfig.cache
