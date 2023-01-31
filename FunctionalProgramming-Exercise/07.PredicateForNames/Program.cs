@@ -16,8 +16,8 @@ Func<List<string>, Predicate<string>, List<string>> alowedNames = (people, match
 int lenght = int.Parse(Console.ReadLine());
 List<string> people = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).ToList();
 
-
-people = alowedNames(people, names => names.Length <=lenght);
+//Predicate<string> match = name => name.Length <= lenght;
+people = alowedNames(people, names => names.Length <= lenght);
 
 Console.WriteLine(string.Join(System.Environment.NewLine, people));
 
