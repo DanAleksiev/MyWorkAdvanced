@@ -1,0 +1,5 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DateModifier\obj\Debug\net6.0\DateModifier.csproj.CoreCompileInputs.cache

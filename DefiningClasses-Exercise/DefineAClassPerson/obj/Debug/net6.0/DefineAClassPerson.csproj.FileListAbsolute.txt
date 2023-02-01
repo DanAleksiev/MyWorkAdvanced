@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\bin\Debug\net6.0\DefineAClassPerson.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\refint\DefineAClassPerson.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\DefineAClassPerson.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\DefiningClasses-Exercise\DefineAClassPerson\obj\Debug\net6.0\ref\DefineAClassPerson.dll
