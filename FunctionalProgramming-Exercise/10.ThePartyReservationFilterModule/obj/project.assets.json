@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\FunctionalProgramming-Exercise\\10.ThePartyReservationFilterModule\\10.ThePartyReservationFilterModule.csproj",
+      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\FunctionalProgramming-Exercise\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
       "projectName": "10.ThePartyReservationFilterModule",
-      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\FunctionalProgramming-Exercise\\10.ThePartyReservationFilterModule\\10.ThePartyReservationFilterModule.csproj",
+      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\FunctionalProgramming-Exercise\\02.KnightsOfHonor\\02.KnightsOfHonor.csproj",
       "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\FunctionalProgramming-Exercise\\10.ThePartyReservationFilterModule\\obj\\",
       "projectStyle": "PackageReference",

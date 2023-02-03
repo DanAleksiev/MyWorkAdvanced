@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\bin\Debug\net6.0\01.CustomList.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\bin\Debug\net6.0\01.CustomList.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\bin\Debug\net6.0\01.CustomList.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\bin\Debug\net6.0\01.CustomList.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\bin\Debug\net6.0\01.CustomList.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\01.CustomList.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\01.CustomList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\01.CustomList.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\01.CustomList.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\01.CustomList.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\01.CustomList.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\refint\01.CustomList.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\01.CustomList.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\01.CustomList.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\CustomStructures-NotMine\01.CustomList\obj\Debug\net6.0\ref\01.CustomList.dll
