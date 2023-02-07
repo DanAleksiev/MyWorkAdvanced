@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\bin\Debug\net6.0\01.GenericBoxOfString.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\refint\01.GenericBoxOfString.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\01.GenericBoxOfString.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\01.GenericBoxOfString\obj\Debug\net6.0\ref\01.GenericBoxOfString.dll
