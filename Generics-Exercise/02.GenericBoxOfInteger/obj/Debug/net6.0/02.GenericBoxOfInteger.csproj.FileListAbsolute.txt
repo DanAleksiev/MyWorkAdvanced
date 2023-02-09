@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\bin\Debug\net6.0\02.GenericBoxOfInteger.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\refint\02.GenericBoxOfInteger.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\02.GenericBoxOfInteger.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Generics-Exercise\02.GenericBoxOfInteger\obj\Debug\net6.0\ref\02.GenericBoxOfInteger.dll
