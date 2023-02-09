@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\07.ParkingLot.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\07.ParkingLot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\07.ParkingLot.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\07.ParkingLot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\07.ParkingLot.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\07.ParkingLot.csproj",
         "projectName": "07.ParkingLot",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\07.ParkingLot.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\07.ParkingLot.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\07.ParkingLot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

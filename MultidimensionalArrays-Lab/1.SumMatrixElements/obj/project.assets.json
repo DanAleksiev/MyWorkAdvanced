@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\1.SumMatrixElements\\1.SumMatrixElements.csproj",
+      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\1.SumMatrixElements\\1.SumMatrixElements.csproj",
       "projectName": "1.SumMatrixElements",
-      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\1.SumMatrixElements\\1.SumMatrixElements.csproj",
+      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\1.SumMatrixElements\\1.SumMatrixElements.csproj",
       "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\1.SumMatrixElements\\obj\\",
+      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\1.SumMatrixElements\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

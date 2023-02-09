@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\04.ProductShop.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\04.ProductShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\04.ProductShop.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\04.ProductShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\04.ProductShop.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\04.ProductShop.csproj",
         "projectName": "04.ProductShop",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\04.ProductShop.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\04.ProductShop.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\04.ProductShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

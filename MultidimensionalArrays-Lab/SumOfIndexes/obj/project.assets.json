@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\SumOfIndexes\\SumOfIndexes.csproj",
+      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\SumOfIndexes\\SumOfIndexes.csproj",
       "projectName": "SumOfIndexes",
-      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\SumOfIndexes\\SumOfIndexes.csproj",
+      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\SumOfIndexes\\SumOfIndexes.csproj",
       "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\SumOfIndexes\\obj\\",
+      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\SumOfIndexes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

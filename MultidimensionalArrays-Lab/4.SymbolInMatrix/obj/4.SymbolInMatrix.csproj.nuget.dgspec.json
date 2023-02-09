@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\4.SymbolInMatrix.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\4.SymbolInMatrix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\4.SymbolInMatrix.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\4.SymbolInMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\4.SymbolInMatrix.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\4.SymbolInMatrix.csproj",
         "projectName": "4.SymbolInMatrix",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\4.SymbolInMatrix.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\4.SymbolInMatrix.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\4.SymbolInMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

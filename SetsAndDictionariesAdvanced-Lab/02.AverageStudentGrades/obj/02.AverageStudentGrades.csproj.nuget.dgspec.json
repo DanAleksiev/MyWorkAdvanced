@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj",
         "projectName": "02.AverageStudentGrades",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\02.AverageStudentGrades.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\02.AverageStudentGrades\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

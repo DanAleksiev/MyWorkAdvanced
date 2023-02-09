@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\03.Largest3Numbers.csproj",
+      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\03.Largest3Numbers.csproj",
       "projectName": "03.Largest3Numbers",
-      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\03.Largest3Numbers.csproj",
+      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\03.Largest3Numbers.csproj",
       "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\obj\\",
+      "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\03.Largest3Numbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

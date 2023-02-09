@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj",
         "projectName": "01.CountSameValuesInArray",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\01.CountSameValuesInArray.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\SetsAndDictionariesAdvanced-Lab\\01.CountSameValuesInArray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

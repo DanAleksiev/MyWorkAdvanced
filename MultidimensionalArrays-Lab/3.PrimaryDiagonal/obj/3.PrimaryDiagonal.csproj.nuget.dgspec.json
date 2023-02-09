@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj": {}
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj": {
+    "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj",
+        "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj",
         "projectName": "3.PrimaryDiagonal",
-        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj",
+        "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\3.PrimaryDiagonal.csproj",
         "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\Уроци\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\obj\\",
+        "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\MultidimensionalArrays-Lab\\3.PrimaryDiagonal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
