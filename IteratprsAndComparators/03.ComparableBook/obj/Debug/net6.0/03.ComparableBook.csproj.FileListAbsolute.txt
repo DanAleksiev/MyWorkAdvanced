@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\bin\Debug\net6.0\03.ComparableBook.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\bin\Debug\net6.0\03.ComparableBook.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\bin\Debug\net6.0\03.ComparableBook.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\bin\Debug\net6.0\03.ComparableBook.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\bin\Debug\net6.0\03.ComparableBook.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\03.ComparableBook.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\03.ComparableBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\03.ComparableBook.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\03.ComparableBook.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\03.ComparableBook.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\03.ComparableBook.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\refint\03.ComparableBook.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\03.ComparableBook.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\03.ComparableBook.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratprsAndComparators\03.ComparableBook\obj\Debug\net6.0\ref\03.ComparableBook.dll

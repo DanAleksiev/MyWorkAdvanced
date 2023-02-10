@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\bin\Debug\net6.0\02.Collection.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\bin\Debug\net6.0\02.Collection.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\bin\Debug\net6.0\02.Collection.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\bin\Debug\net6.0\02.Collection.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\bin\Debug\net6.0\02.Collection.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\02.Collection.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\02.Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\02.Collection.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\02.Collection.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\02.Collection.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\02.Collection.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\refint\02.Collection.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\02.Collection.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\02.Collection.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\IteratorsAndComparators-Exercise\02.Collection\obj\Debug\net6.0\ref\02.Collection.dll
