@@ -1,40 +1,46 @@
-﻿using ListyIterator;
+﻿using Collection;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 
-namespace _01.ListyIterator
+
+List<string> items = Console.ReadLine()
+    .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+    .Skip(1)
+    .ToList();
+
+ListyIterator<string> listyIterator = new(items);
+
+string command = string.Empty;
+
+while ((command = Console.ReadLine()) != "END")
     {
-    internal class Program
+    switch (command)
         {
-        static void Main(string[] args)
+        case "Move":
+        Console.WriteLine(listyIterator.Move());
+        break;
+        case "HasNext":
+        Console.WriteLine(listyIterator.HasNext());
+        break;
+        case "Print":
+        try
             {
-            List<string> create = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries).Skip(1).ToList();
-            CustomListyIterator<string> list = new CustomListyIterator<string>(create);
-
-            string input = string.Empty;
-            while ((input = Console.ReadLine()) != "END")
-                {
-                switch (input)
-                    {
-                    case "Move":
-                    Console.WriteLine(list.Move());
-                    break;
-                    case "HasNext":
-                    Console.WriteLine(list.HasNext());
-                    break;
-                    case "Print":
-                    try
-                        {
-                        list.Print();
-                        }
-                    catch (Exception exception)
-                        {
-                        Console.WriteLine(exception.Message);
-                        }
-                    break;
-                    case "PrintAll":
-                        list.PrintAll();
-                    break;
-                    }
-                }
+            listyIterator.Print();
             }
+        catch (InvalidOperationException exception)
+            {
+            Console.WriteLine(exception.Message);
+            }
+
+        break;
+        case "PrintAll":
+        foreach (var item in listyIterator)
+            {
+            Console.Write($"{item} ");
+            }
+
+        Console.WriteLine();
+        break;
         }
     }

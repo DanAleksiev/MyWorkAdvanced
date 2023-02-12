@@ -1,6 +1,4 @@
-﻿using _01.Library;
-
-namespace IteratorsAndComparators
+﻿namespace IteratorsAndComparators
     {
     internal class StartUp
         {

@@ -1,45 +1,42 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ListyIterator
+namespace ListyIterator;
+
+public class ListyIterator<T>
     {
-    public class CustomListyIterator<T>
+    private int index;
+    private List<T> items;
+
+    public ListyIterator(List<T> items)
         {
-        private int index;
-        private List<T> list;
-        public CustomListyIterator(List<T> aList)
+        this.items = items;
+        }
+
+    public bool Move()
+        {
+        if (index < items.Count - 1)
             {
-            index = 0;
-            this.list = aList;
-            }
-        public List<T> List { get; set; }
-        public bool Move()
-            {
-            if (index < list.Count - 1)
-                {
-                index++;
-                return true;
-                }
+            index++;
+
             return true;
             }
-        public bool HasNext()
+
+        return false;
+        }
+
+    public bool HasNext()
+        {
+        return index < items.Count - 1;
+        }
+
+    public void Print()
+        {
+        if (items.Count == 0)
             {
-            if (index < list.Count - 1)
-                {
-                return true;
-                }
-            return false;
+            throw new InvalidOperationException("Invalid Operation!");
             }
-        public void Print()
-            {
-            if (list.Count == 0)
-                {
-                throw new InvalidOperationException("Invalid Operation!");
-                }
-            Console.WriteLine(list[index]);
-            }
+
+        Console.WriteLine(items[index]);
         }
     }

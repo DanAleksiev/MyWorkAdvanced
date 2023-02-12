@@ -1,32 +1,27 @@
-﻿namespace CustomStructures
-    {
-    internal class Program
-        {
-        static void Main(string[] args)
-            {
-            CustomList<string> list = new();
+﻿using CustomLinkedList;
+using System;
 
-            list.Add("uWu");
-            list.Add("lol");
-            list.Add("Booo");
-            list.Add("loool");
-            list.Add("ROFL");
+CustomDoublyLinkedList<int> list = new();
 
-            list[0] = "lols";
+list.AddFirst(3);
+list.AddFirst(2);
+list.AddFirst(1);
+list.AddLast(4);
 
-            list.AddRange(new string[] {"edno","Dve","tri" });
+Console.WriteLine(list.RemoveFirst());
+Console.WriteLine(list.RemoveLast());
 
-            Console.WriteLine(list.RemoveAt(2));
-            Console.WriteLine(list.RemoveAt(2));
-            Console.WriteLine(list.RemoveAt(2));
+int[] arr = list.ToArray();
 
-            Console.WriteLine();
+list.ForEach(i => Console.WriteLine(i));
 
-            list.Swap(0, 1);
-            Console.WriteLine();
+Console.WriteLine(list.Count);
 
-            Console.WriteLine();
-            Console.WriteLine(list.Count);
-            }
-        }
-    }
+CustomDoublyLinkedList<string> listString = new();
+
+listString.AddFirst("some");
+listString.AddFirst("random");
+listString.AddFirst("strings");
+listString.AddLast("added");
+
+listString.ForEach(i => Console.WriteLine(i));

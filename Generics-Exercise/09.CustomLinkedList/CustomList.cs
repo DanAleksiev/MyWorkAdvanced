@@ -1,147 +1,139 @@
 ﻿using System;
 
-namespace CustomStructures;
+namespace CustomLinkedList;
 
-public class CustomList<T>
+public class CustomDoublyLinkedList<T>
     {
-    private const int InitialCapacity = 2;
-
-    private T[] items;
-
-    public CustomList()
+    private class ListNode
         {
-        items = new T[InitialCapacity];
+        public ListNode(T value)
+            {
+            Value = value;
+            }
+
+        public ListNode NextNode { get; set; }
+
+        public ListNode PreviousNode { get; set; }
+
+        public T Value { get; set; }
         }
+
+    private ListNode head;
+    private ListNode tail;
 
     public int Count { get; private set; }
 
-    public T this[int index]
+    public void AddFirst(T element)
         {
-        get
+        ListNode newHead = new(element);
+
+        if (Count == 0)
             {
-            ValidateIndex(index);
-
-            return items[index];
+            head = tail = newHead;
             }
-        set
+        else
             {
-            ValidateIndex(index);
-
-            items[index] = value;
+            newHead.NextNode = head;
+            head.PreviousNode = newHead;
+            head = newHead;
             }
-        }
-
-    public void Add(T item)
-        {
-        if (items.Length == Count)
-            {
-            Resize();
-            }
-
-        items[Count] = item;
 
         Count++;
         }
 
-    //Bonus
-    public void AddRange(T[] items)
+    public void AddLast(T element)
         {
-        foreach (T item in items)
+        ListNode newTail = new(element);
+
+        if (Count == 0)
             {
-            Add(item);
+            tail = head = newTail;
             }
+        else
+            {
+            newTail.PreviousNode = tail;
+            tail.NextNode = newTail;
+            tail = newTail;
+            }
+
+        Count++;
         }
 
-    public T RemoveAt(int index)
+    public T RemoveFirst()
         {
-        ValidateIndex(index);
+        if (Count == 0)
+            {
+            throw new InvalidOperationException("The list is empty");
+            }
 
-        T removedItem = items[index];
+        T removedElement = head.Value;
 
-        items[index] = default;
+        ListNode newHead = head.NextNode;
 
-        ShiftLeft(index);
+        if (Count == 1)
+            {
+            head = tail = null;
+            }
+        else
+            {
+            newHead.PreviousNode = null;
+            head = newHead;
+            }
 
         Count--;
 
-        if (Count <= items.Length / 4)
+        return removedElement;
+        }
+
+    public T RemoveLast()
+        {
+        if (Count == 0)
             {
-            Shrink();
+            throw new InvalidOperationException("The list is empty");
             }
 
-        return removedItem;
-        }
+        T removedElement = tail.Value;
 
-    public void InsertAt(int index, T item)
-        {
-        ValidateIndex(index);
+        ListNode newTail = tail.PreviousNode;
 
-        if (items.Length == Count)
+        if (Count == 1)
             {
-            Resize();
+            tail = head = null;
+            }
+        else
+            {
+            newTail.NextNode = null;
+            tail = newTail;
             }
 
-        ShiftRight(index);
+        Count--;
 
-        items[index] = item;
-
-        Count++;
-        }
-    public void Swap(int firstIndex, int secondIndex)
-        {
-        ValidateIndex(firstIndex);
-        ValidateIndex(secondIndex);
-
-        T temp = items[firstIndex];
-        items[firstIndex] = items[secondIndex];
-        items[secondIndex] = temp;
+        return removedElement;
         }
 
-    private void Resize()
+    public void ForEach(Action<T> action)
         {
-        T[] copy = new T[items.Length * 2];
+        ListNode currentNode = head;
+
+        while (currentNode != null)
+            {
+            action(currentNode.Value);
+            currentNode = currentNode.NextNode;
+            }
+        }
+
+    public T[] ToArray()
+        {
+        T[] array = new T[Count];
+
+        var currentNode = head;
 
         for (int i = 0; i < Count; i++)
             {
-            copy[i] = items[i];
+            array[i] = currentNode.Value;
+            currentNode = currentNode.NextNode;
             }
 
-        items = copy;
-        }
-
-    private void Shrink()
-        {
-        T[] copy = new T[items.Length / 2];
-
-        for (int i = 0; i < Count; i++)
-            {
-            copy[i] = items[i];
-            }
-
-        items = copy;
-        }
-
-    private void ShiftLeft(int index)
-        {
-        for (int i = index; i < Count - 1; i++)
-            {
-            items[i] = items[i + 1];
-            }
-        }
-
-    private void ShiftRight(int index)
-        {
-        for (int i = Count - 1; i >= index; i--)
-            {
-            items[i + 1] = items[i];
-            }
-        }
-
-    private void ValidateIndex(int index)
-        {
-        if (index < 0 || index >= Count)
-            {
-            throw new IndexOutOfRangeException();
-            }
+        return array;
         }
     }

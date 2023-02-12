@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\bin\Debug\net6.0\01.ClimbThePeaks.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\refint\01.ClimbThePeaks.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\01.ClimbThePeaks.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.ClimbThePeaks\obj\Debug\net6.0\ref\01.ClimbThePeaks.dll

@@ -4,7 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace _01.Library
+namespace IteratorsAndComparators
     {
     internal class Library : IEnumerable<Book>
         {

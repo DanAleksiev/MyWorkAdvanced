@@ -1,37 +1,66 @@
-﻿using _04.BookComparator;
-using IteratorsAndComparators;
+﻿using IteratorsAndComparators;
 using System;
 using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+using static System.Reflection.Metadata.BlobBuilder;
 
-namespace _01.Library
+namespace IteratorsAndComparators
     {
     public class Library : IEnumerable<Book>
         {
+        private List<Book> books;
         public Library(params Book[] books)
             {
-            Books = books.ToList();
+            this.Books = books.ToList();
             }
         public List<Book> Books { get; set; }
+        //public IEnumerator<Book> GetEnumerator()  //easy way
+        //    {
+        //    return Books.GetEnumerator(); 
+        //    }
         public IEnumerator<Book> GetEnumerator()
             {
-            Books.Sort(new BookComparator()); //sort them alphabeticly and then by year
-            return Books.GetEnumerator();
+            //for (int i = 0; i < books.Count; i++)
+            //{
+            //    yield return books[i];
+            //}
+
+            return new LibraryIterator(Books);
             }
 
-        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
+        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator(); //legacy (always do this)
         public class LibraryIterator : IEnumerator<Book>
             {
-            private readonly List<Book> books;
+            private List<Book> books;
             private int currentIndex;
-            public Book Current => this.books[this.currentIndex];
 
-            object IEnumerator.Current => throw new NotImplementedException();
+            public LibraryIterator(List<Book> books)
+                {
+                this.books = books;
+                books.Sort(new BookComparator());
+                currentIndex = -1;
+                }
 
+            public Book Current
+                {
+                get { return books[currentIndex]; }
+                }
 
-            public bool MoveNext() => ++this.currentIndex < this.books.Count;
+            object IEnumerator.Current => Current;
 
-            public void Reset() => this.currentIndex = -1;
-            public void Dispose() { }
+            public void Dispose()
+                {
+                }
+
+            public bool MoveNext()
+                {
+                return ++currentIndex < books.Count;
+                }
+
+            public void Reset()
+                {
+                }
             }
         }
     }

@@ -1,6 +1,4 @@
-﻿using IteratorsAndComparators;
-
-namespace _04.BookComparator
+﻿namespace IteratorsAndComparators
     {
     public class BookComparator : IComparer<Book>
         {

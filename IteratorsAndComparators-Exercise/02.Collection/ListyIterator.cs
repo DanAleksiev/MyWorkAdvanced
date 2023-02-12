@@ -1,59 +1,53 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace ListyIterator
+namespace Collection;
+
+public class ListyIterator<T> : IEnumerable<T>
+{
+    private int index;
+    private List<T> items;
+
+    public ListyIterator(List<T> items)
     {
-    public class CustomListyIterator<T> : IEnumerable<T>
+        this.items = items;
+    }
+
+    public bool Move()
+    {
+        if (index < items.Count - 1)
         {
-        private int index;
-        private List<T> list;
-        public CustomListyIterator(List<T> aList)
-            {
-            index = 0;
-            this.list = aList;
-            }
-        public List<T> List { get; set; }
-        public bool Move()
-            {
-            if (index < list.Count - 1)
-                {
-                index++;
-                return true;
-                }
+            index++;
+
             return true;
-            }
-        public bool HasNext()
-            {
-            if (index < list.Count - 1)
-                {
-                return true;
-                }
-            return false;
-            }
-        public void Print()
-            {
-            Console.WriteLine(list[index]);
-            }
-        public void PrintAll()
-            {
-            foreach (var item in list)
-                {
-                Console.Write($"{item} ");
-                }
-            }
+        }
 
-        public IEnumerator<T> GetEnumerator()
-            {
-            foreach (var item in list)
-                {
-                yield return item;
-                }
-            }
+        return false;
+    }
 
-        IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
+    public bool HasNext()
+    {
+        return index < items.Count - 1;
+    }
+
+    public void Print()
+    {
+        if (items.Count == 0)
+        {
+            throw new InvalidOperationException("Invalid Operation!");
+        }
+
+        Console.WriteLine(items[index]);
+    }
+
+    public IEnumerator<T> GetEnumerator()
+    {
+        foreach (var item in items)
+        {
+            yield return item;
         }
     }
+
+    IEnumerator IEnumerable.GetEnumerator() => GetEnumerator();
+}

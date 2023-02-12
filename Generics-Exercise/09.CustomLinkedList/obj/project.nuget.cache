@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PVwCKke15zIMgIv6QWfYNz8cGfbDRGHBkYxqH6JM7XMDCWB6Bh+ok3hMmBDqCtOZYa67Ehr07yd/RWJ0K8PXug==",
+  "dgSpecHash": "H6dzRuh//TdyK8me2jt4UiPRAGY9PlZ8lGQqSp3kkbSBCVuQbtOQ7xdIpGsaQoIw2IsL7+47zqYRVeZXdctE6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\Generics-Exercise\\09.CustomLinkedList\\09.CustomLinkedList.csproj",
+  "projectFilePath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\Generics-Exercise\\09.CustomLinkedList\\CustomDoublyLinkedList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

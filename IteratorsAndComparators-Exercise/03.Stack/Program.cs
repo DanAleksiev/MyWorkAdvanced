@@ -6,17 +6,15 @@ namespace _03.Stack
         {
         static void Main(string[] args)
             {
-            List<string> firstInput = Console.ReadLine().Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries).ToList();
-            string action = firstInput[0];
-            firstInput.RemoveAt(0);
-
-            CustomStack<string> stack = new CustomStack<string>(firstInput);
+            CustomStack<string> stack = new CustomStack<string>();
             string input = string.Empty;
 
             while ((input = Console.ReadLine()) != "END")
                 {
-                List<string> output = input.Split().ToList();
-                if (output[0] == "Pop")
+
+                string[] afterInput =input.Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries);
+                string action = afterInput[0];
+                if (action == "Pop")
                     {
                     try
                         {
@@ -29,7 +27,10 @@ namespace _03.Stack
                     }
                 else
                     {
-                    stack.Push(output[1]);
+                    foreach (string item in afterInput.Skip(1))
+                        {
+                        stack.Push(item);
+                        }
                     }
                 }
 

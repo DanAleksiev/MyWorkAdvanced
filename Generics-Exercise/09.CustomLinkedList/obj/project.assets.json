@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\Generics-Exercise\\09.CustomLinkedList\\09.CustomLinkedList.csproj",
-      "projectName": "09.CustomLinkedList",
-      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\Generics-Exercise\\09.CustomLinkedList\\09.CustomLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\Generics-Exercise\\09.CustomLinkedList\\CustomDoublyLinkedList.csproj",
+      "projectName": "CustomDoublyLinkedList",
+      "projectPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\Generics-Exercise\\09.CustomLinkedList\\CustomDoublyLinkedList.csproj",
       "packagesPath": "C:\\Users\\toksi\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\toksi\\OneDrive\\Desktop\\SoftUni c#\\advanced\\MyWorkAdvanced\\Generics-Exercise\\09.CustomLinkedList\\obj\\",
       "projectStyle": "PackageReference",

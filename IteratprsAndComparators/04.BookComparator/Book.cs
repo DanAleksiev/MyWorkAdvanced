@@ -1,31 +1,45 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Diagnostics.CodeAnalysis;
+using System.Linq;
+using System.Text;
 
 namespace IteratorsAndComparators
     {
     public class Book : IComparable<Book>
         {
-        public Book(string title,int year, params string[] author)
+        public Book(string title, int year, params string[] authors)
             {
             Title = title;
             Year = year;
-            Author = author.ToList();
+            Authors = authors.ToList();
             }
+
         public string Title { get; set; }
+
         public int Year { get; set; }
-        public List<string> Author { get; set;}
+
+        public List<string> Authors { get; set; }
 
         public int CompareTo(Book other)
             {
-            int result = this.Year.CompareTo(other.Year); // result is equal to  -1 /0/1 
-            if (result == 0 )                                             // where -1 means this.Year is smaller / 0 equals/ 1 bigger
+            int result = this.Year.CompareTo(other.Year);
+            if (result != 0)
                 {
-                result =this.Title.CompareTo(other.Title);
+                result= this.Year.CompareTo(other.Year);
                 }
             return result;
+            //if (Year != other.Year)
+            //    {
+            //    return Year.CompareTo(other.Year);
+            //    }
+
+            //return Title.CompareTo(other.Title);
             }
+
         public override string ToString()
             {
-            return $"{this.Title} - {this.Year}";
+            return $"{Title} - {Year}";
             }
         }
     }
