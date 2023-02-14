@@ -9,6 +9,12 @@
             Stack<int> portionS = new Stack<int>(dailyPortions);
             Queue<int> staminaS = new Queue<int>(dailyStamina);
 
+            //short input
+            //Stack<int> name = new(
+            //    Console.ReadLine()
+            //    .Split(", ")
+            //    .Select(int.Parse));
+
             List<string> peaks = new();
             peaks.Add("Vihren - 80");
             peaks.Add("Kutelo - 90");
@@ -36,7 +42,6 @@
                         break;
                         }
                     }
-
                 }
             if (peaks.Count == peaksConquerd)
                 {

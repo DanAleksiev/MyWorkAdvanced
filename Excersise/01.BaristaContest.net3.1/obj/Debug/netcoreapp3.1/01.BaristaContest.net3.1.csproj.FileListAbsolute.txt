@@ -1,0 +1,14 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\bin\Debug\netcoreapp3.1\01.BaristaContest.net3.1.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\bin\Debug\netcoreapp3.1\01.BaristaContest.net3.1.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\bin\Debug\netcoreapp3.1\01.BaristaContest.net3.1.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\bin\Debug\netcoreapp3.1\01.BaristaContest.net3.1.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\bin\Debug\netcoreapp3.1\01.BaristaContest.net3.1.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\bin\Debug\netcoreapp3.1\01.BaristaContest.net3.1.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\obj\Debug\netcoreapp3.1\01.BaristaContest.net3.1.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\obj\Debug\netcoreapp3.1\01.BaristaContest.net3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\obj\Debug\netcoreapp3.1\01.BaristaContest.net3.1.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\obj\Debug\netcoreapp3.1\01.BaristaContest.net3.1.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\obj\Debug\netcoreapp3.1\01.BaristaContest.net3.1.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\obj\Debug\netcoreapp3.1\01.BaristaContest.net3.1.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\obj\Debug\netcoreapp3.1\01.BaristaContest.net3.1.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\01.BaristaContest.net3.1\obj\Debug\netcoreapp3.1\01.BaristaContest.net3.1.genruntimeconfig.cache
