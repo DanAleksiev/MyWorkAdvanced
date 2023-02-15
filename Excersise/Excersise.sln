@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.NavyBattle", "02.NavyBat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.ShoeStore", "03.ShoeStore\03.ShoeStore.csproj", "{7DC91333-F1BF-48C9-BDE1-802FC39F723D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BaristaContest", "01.BaristaContest\01.BaristaContest.csproj", "{FD05A381-0893-4C8F-ABF2-199A71F5FE10}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BaristaContest", "01.BaristaContest\01.BaristaContest.csproj", "{FD05A381-0893-4C8F-ABF2-199A71F5FE10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.BaristaContest.net3.1", "01.BaristaContest.net3.1\01.BaristaContest.net3.1.csproj", "{B52DEF64-9F93-40F9-95C3-AD0133B8D1D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.BaristaContest.net3.1", "01.BaristaContest.net3.1\01.BaristaContest.net3.1.csproj", "{B52DEF64-9F93-40F9-95C3-AD0133B8D1D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Help-A-Mole", "02.Help-A-Mole\02.Help-A-Mole.csproj", "{2B57019B-4B3A-4B4E-A6CF-C4E5717EFACD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Help-A-Mole", "02.Help-A-Mole\02.Help-A-Mole.csproj", "{2B57019B-4B3A-4B4E-A6CF-C4E5717EFACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Basketball", "03.Basketball\03.Basketball.csproj", "{E9C2A491-AE90-47BD-96BE-5F2F052FA1F3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{2B57019B-4B3A-4B4E-A6CF-C4E5717EFACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B57019B-4B3A-4B4E-A6CF-C4E5717EFACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B57019B-4B3A-4B4E-A6CF-C4E5717EFACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C2A491-AE90-47BD-96BE-5F2F052FA1F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C2A491-AE90-47BD-96BE-5F2F052FA1F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C2A491-AE90-47BD-96BE-5F2F052FA1F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C2A491-AE90-47BD-96BE-5F2F052FA1F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
