@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\bin\Debug\net6.0\01.RecursiveArraySum.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\refint\01.RecursiveArraySum.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\01.RecursiveArraySum.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\01.RecursiveArraySum\obj\Debug\net6.0\ref\01.RecursiveArraySum.dll

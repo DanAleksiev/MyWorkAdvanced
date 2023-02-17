@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\bin\Debug\net6.0\RecursiveSteps.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\refint\RecursiveSteps.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\RecursiveSteps.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\BasicAlgorithms-Exercise\RecursiveSteps\obj\Debug\net6.0\ref\RecursiveSteps.dll
