@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\Classes\obj\Debug\net6.0\ref\Classes.dll

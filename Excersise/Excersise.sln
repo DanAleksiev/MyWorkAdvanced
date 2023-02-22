@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Help-A-Mole", "02.Help-A
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Basketball", "03.Basketball\03.Basketball.csproj", "{E9C2A491-AE90-47BD-96BE-5F2F052FA1F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.MealPlan", "01.MealPlan\01.MealPlan.csproj", "{3A11226A-8962-4F75-A295-548DD675C36D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.MealPlan", "01.MealPlan\01.MealPlan.csproj", "{3A11226A-8962-4F75-A295-548DD675C36D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.TruffleHunter", "02.TruffleHunter\02.TruffleHunter.csproj", "{43AAC89C-77FF-4F5E-91B2-9C0EBE7D8040}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.TruffleHunter", "02.TruffleHunter\02.TruffleHunter.csproj", "{43AAC89C-77FF-4F5E-91B2-9C0EBE7D8040}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Zoo", "03.Zoo\03.Zoo.csproj", "{20C3E7D8-B7E5-4D7D-8108-D724A7AC00A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{43AAC89C-77FF-4F5E-91B2-9C0EBE7D8040}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43AAC89C-77FF-4F5E-91B2-9C0EBE7D8040}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43AAC89C-77FF-4F5E-91B2-9C0EBE7D8040}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C3E7D8-B7E5-4D7D-8108-D724A7AC00A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C3E7D8-B7E5-4D7D-8108-D724A7AC00A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C3E7D8-B7E5-4D7D-8108-D724A7AC00A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C3E7D8-B7E5-4D7D-8108-D724A7AC00A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

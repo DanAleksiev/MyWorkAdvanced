@@ -1,0 +1,14 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\bin\Debug\netcoreapp3.1\03.Zoo.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\bin\Debug\netcoreapp3.1\03.Zoo.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\bin\Debug\netcoreapp3.1\03.Zoo.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\bin\Debug\netcoreapp3.1\03.Zoo.runtimeconfig.dev.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\bin\Debug\netcoreapp3.1\03.Zoo.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\bin\Debug\netcoreapp3.1\03.Zoo.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\obj\Debug\netcoreapp3.1\03.Zoo.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\obj\Debug\netcoreapp3.1\03.Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\obj\Debug\netcoreapp3.1\03.Zoo.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\obj\Debug\netcoreapp3.1\03.Zoo.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\obj\Debug\netcoreapp3.1\03.Zoo.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\obj\Debug\netcoreapp3.1\03.Zoo.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\obj\Debug\netcoreapp3.1\03.Zoo.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Excersise\03.Zoo\obj\Debug\netcoreapp3.1\03.Zoo.genruntimeconfig.cache

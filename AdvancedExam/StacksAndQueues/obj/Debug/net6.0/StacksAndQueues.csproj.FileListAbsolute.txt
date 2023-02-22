@@ -1,0 +1,15 @@
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.exe
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.deps.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.runtimeconfig.json
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\bin\Debug\net6.0\StacksAndQueues.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.csproj.AssemblyReference.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.AssemblyInfo.cs
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\refint\StacksAndQueues.dll
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.pdb
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\StacksAndQueues.genruntimeconfig.cache
+C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\AdvancedExam\StacksAndQueues\obj\Debug\net6.0\ref\StacksAndQueues.dll
