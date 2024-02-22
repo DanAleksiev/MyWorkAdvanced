@@ -4,7 +4,6 @@ C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,Files
 C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\bin\Debug\net5.0\ExtractSpecialBytes.runtimeconfig.dev.json
 C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\bin\Debug\net5.0\ExtractSpecialBytes.dll
 C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\bin\Debug\net5.0\ExtractSpecialBytes.pdb
-C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.csproj.AssemblyReference.cache
 C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.AssemblyInfoInputs.cache
 C:\Users\toksi\OneDrive\Desktop\SoftUni c#\advanced\MyWorkAdvanced\Streams,FilesAndDirectories-Lab\ExtractSpecialBytes\obj\Debug\net5.0\ExtractSpecialBytes.AssemblyInfo.cs
